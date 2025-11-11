@@ -54,4 +54,4 @@ sudo -S pacman -Rsc --noconfirm poppler-glib
 sudo -S pacman -Rsc --noconfirm harfbuzz-icu
 sudo -S pacman -Rsc --noconfirm ark karchive plasma-desktop dolphin kate konsole attica knewstuff discover
 sudo -S pacman -Sy
-sudo -S pacman -S --noconfirm kdedevpackages
+sudo -S pacman -S --noconfirm kdedevpackages kate
