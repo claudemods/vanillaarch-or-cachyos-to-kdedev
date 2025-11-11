@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/$USER && git clone https://github.com/claudemods/vanillaarch-or-cachyos-to-kdedev
-cd vanillaarch-or-cachyos-to-kdedev && sudo chmod * && ./commands.sh
+cd /home/$USER/vanillaarch-or-cachyos-to-kdedev && sudo chmod /home/$USER/vanillaarch-or-cachyos-to-kdedev/* && ./commands.sh
